@@ -1,0 +1,75 @@
+[2024-08-02 09:32:56.880] [Debug] [Template Engine] => [Execute]: Execute started
+[2024-08-02 09:32:56.956] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-08-02 09:32:56.956] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-08-02 09:32:56.957] [Debug] [MSBuildEvaluator] => [Execute]: Output directory is: /run/media/ramumsrk/1.0TiB/repositories/CSharp-Programming-Language-dotNET-Core/www.youtube.com/@ScholarHat/playlists/CSharp-Tutorial-For-Beginners/src/chsarp_tutorial_for_beginners/User.
+[2024-08-02 09:32:56.957] [Debug] [MSBuildEvaluator] => [Execute]: Project full path is: <null>.
+[2024-08-02 09:32:56.958] [Debug] [MSBuildEvaluator] => [Execute]: Found project files: .
+[2024-08-02 09:32:56.958] [Debug] [MSBuildEvaluator] => [Execute]: No project found.
+[2024-08-02 09:32:56.963] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.projecttemplates.8.0.8.0.303.nupkg/content/ClassLibrary-CSharp/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.projecttemplates.8.0.8.0.303.nupkg/content/ClassLibrary-CSharp/.template.config/template.json started
+[2024-08-02 09:32:57.080] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.projecttemplates.8.0.8.0.303.nupkg/content/ClassLibrary-CSharp/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.projecttemplates.8.0.8.0.303.nupkg/content/ClassLibrary-CSharp/.template.config/template.json finished, took 116 ms
+[2024-08-02 09:32:57.080] [Debug] [Template Engine] => [Execute]: Found template 'Class Library' (Microsoft.Common.Library.CSharp.8.0)
+[2024-08-02 09:32:57.081] [Debug] [Template Engine] => [Execute]: The template 'Class Library' (Microsoft.Common.Library.CSharp.8.0) has the following validation messages:
+   [Info][MV011] One or more postActions have a malformed or missing manualInstructions value.
+
+[2024-08-02 09:32:57.081] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation started
+[2024-08-02 09:32:57.092] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Configured bind sources are: Environment variables(EnvironmentVariablesBindSource), Host defined parameters(HostParametersBindSource), Project context(ProjectContextSymbolSource).
+[2024-08-02 09:32:57.093] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Evaluating binding 'host:HostIdentifier'.
+[2024-08-02 09:32:57.093] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: The following sources match prefix 'host': Host defined parameters.
+[2024-08-02 09:32:57.093] [Debug] [Template Engine] => [Execute] => [Template content generation]: [HostParametersBindSource]: Retrieving bound value for 'HostIdentifier'.
+[2024-08-02 09:32:57.093] [Debug] [Template Engine] => [Execute] => [Template content generation]: [HostParametersBindSource]: Retrieved bound value for 'HostIdentifier': 'dotnetcli'.
+[2024-08-02 09:32:57.094] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: 'dotnetcli' was retrieved for 'HostIdentifier'.
+[2024-08-02 09:32:57.095] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Variable 'HostIdentifier' was set to 'dotnetcli'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [RegexMatchMacro]: Assigned variable 'csharp9orOlder' to 'False'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [RegexMatchMacro]: Assigned variable 'csharp7orOlder' to 'False'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'User'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'User'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'user'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'User'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'user'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'language{-VALUE-FORMS-}identity' was assigned to value 'C#'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'type{-VALUE-FORMS-}identity' was assigned to value 'project'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'TargetFrameworkOverride{-VALUE-FORMS-}identity' was assigned to value ''.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'Framework{-VALUE-FORMS-}identity' was assigned to value 'net8.0'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'langVersion{-VALUE-FORMS-}identity' was assigned to value '12'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'skipRestore{-VALUE-FORMS-}identity' was assigned to value 'False'.
+[2024-08-02 09:32:57.113] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharp10orLater' was assigned to value 'True'.
+[2024-08-02 09:32:57.114] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharp8orLater' was assigned to value 'True'.
+[2024-08-02 09:32:57.118] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_ImplicitUsings' was assigned to value 'True'.
+[2024-08-02 09:32:57.121] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_FileScopedNamespaces' was assigned to value 'True'.
+[2024-08-02 09:32:57.121] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_Nullable' was assigned to value 'True'.
+[2024-08-02 09:32:57.128] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Configured bind sources are: Environment variables(EnvironmentVariablesBindSource), Host defined parameters(HostParametersBindSource), Project context(ProjectContextSymbolSource).
+[2024-08-02 09:32:57.128] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Evaluating binding 'host:HostIdentifier'.
+[2024-08-02 09:32:57.128] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: The following sources match prefix 'host': Host defined parameters.
+[2024-08-02 09:32:57.128] [Debug] [Template Engine] => [Execute] => [Template content generation]: [HostParametersBindSource]: Retrieving bound value for 'HostIdentifier'.
+[2024-08-02 09:32:57.128] [Debug] [Template Engine] => [Execute] => [Template content generation]: [HostParametersBindSource]: Retrieved bound value for 'HostIdentifier': 'dotnetcli'.
+[2024-08-02 09:32:57.128] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: 'dotnetcli' was retrieved for 'HostIdentifier'.
+[2024-08-02 09:32:57.128] [Debug] [Microsoft.TemplateEngine.Orchestrator.RunnableProjects.BindSymbolEvaluator] => [Execute] => [Template content generation]: Variable 'HostIdentifier' was set to 'dotnetcli'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [RegexMatchMacro]: Assigned variable 'csharp9orOlder' to 'False'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [RegexMatchMacro]: Assigned variable 'csharp7orOlder' to 'False'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'User'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'User'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'user'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'User'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'user'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'language{-VALUE-FORMS-}identity' was assigned to value 'C#'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'type{-VALUE-FORMS-}identity' was assigned to value 'project'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'TargetFrameworkOverride{-VALUE-FORMS-}identity' was assigned to value ''.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'Framework{-VALUE-FORMS-}identity' was assigned to value 'net8.0'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'langVersion{-VALUE-FORMS-}identity' was assigned to value '12'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'skipRestore{-VALUE-FORMS-}identity' was assigned to value 'False'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharp10orLater' was assigned to value 'True'.
+[2024-08-02 09:32:57.133] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharp8orLater' was assigned to value 'True'.
+[2024-08-02 09:32:57.134] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_ImplicitUsings' was assigned to value 'True'.
+[2024-08-02 09:32:57.134] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_FileScopedNamespaces' was assigned to value 'True'.
+[2024-08-02 09:32:57.134] [Debug] [Template Engine] => [Execute] => [Template content generation]: [EvaluateMacro]: Variable 'csharpFeature_Nullable' was assigned to value 'True'.
+The template "Class Library" was created successfully.
+
+Processing post-creation actions...
+Restoring /run/media/ramumsrk/1.0TiB/repositories/CSharp-Programming-Language-dotNET-Core/www.youtube.com/@ScholarHat/playlists/CSharp-Tutorial-For-Beginners/src/chsarp_tutorial_for_beginners/User/User.csproj:
+[2024-08-02 09:32:57.240] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation finished, took 159 ms
+  Determining projects to restore...
+  Restored /run/media/ramumsrk/1.0TiB/repositories/CSharp-Programming-Language-dotNET-Core/www.youtube.com/@ScholarHat/playlists/CSharp-Tutorial-For-Beginners/src/chsarp_tutorial_for_beginners/User/User.csproj (in 52 ms).
+Restore succeeded.
+
+
+[2024-08-02 09:32:57.949] [Debug] [Template Engine] => [Execute]: Execute finished, took 1069 ms
