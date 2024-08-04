@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeGender", "EmployeeG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRecordDemo", "EmployeeRecordDemo\EmployeeRecordDemo.csproj", "{D131069D-9781-4DAE-A1FF-21934CE2787B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_for_beginners_part_0003_csharp_variables_tutorial", "csharp_for_beginners_part_0003_csharp_variables_tutorial\csharp_for_beginners_part_0003_csharp_variables_tutorial.csproj", "{6B633563-107F-4479-A99D-7CB3F61B8831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRecord", "StudentRecord\StudentRecord.csproj", "{33A1BA74-95DD-4C29-96A6-F477C571F670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGender", "StudentGender\StudentGender.csproj", "{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +48,17 @@ Global
 		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B633563-107F-4479-A99D-7CB3F61B8831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B633563-107F-4479-A99D-7CB3F61B8831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B633563-107F-4479-A99D-7CB3F61B8831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B633563-107F-4479-A99D-7CB3F61B8831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A1BA74-95DD-4C29-96A6-F477C571F670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A1BA74-95DD-4C29-96A6-F477C571F670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A1BA74-95DD-4C29-96A6-F477C571F670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A1BA74-95DD-4C29-96A6-F477C571F670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
