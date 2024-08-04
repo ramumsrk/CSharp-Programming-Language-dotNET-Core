@@ -5,6 +5,14 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_for_beginners_part_0001_introduction_to_csharp_tutorial", "csharp_for_beginners_part_0001_introduction_to_csharp_tutorial\csharp_for_beginners_part_0001_introduction_to_csharp_tutorial.csproj", "{41B6E442-9E8D-41DD-9828-F68D009ECFB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_for_beginners_part_0002_data_types_tutorial", "csharp_for_beginners_part_0002_data_types_tutorial\csharp_for_beginners_part_0002_data_types_tutorial.csproj", "{A677154B-0285-4EBB-B65B-D6F706651AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRecord", "EmployeeRecord\EmployeeRecord.csproj", "{45CD1732-F5C3-4028-816C-09434AA1BCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeGender", "EmployeeGender\EmployeeGender.csproj", "{C8E9B4FA-20D9-4A9A-BA45-E78C61B17B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRecordDemo", "EmployeeRecordDemo\EmployeeRecordDemo.csproj", "{D131069D-9781-4DAE-A1FF-21934CE2787B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,21 @@ Global
 		{41B6E442-9E8D-41DD-9828-F68D009ECFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41B6E442-9E8D-41DD-9828-F68D009ECFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41B6E442-9E8D-41DD-9828-F68D009ECFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A677154B-0285-4EBB-B65B-D6F706651AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A677154B-0285-4EBB-B65B-D6F706651AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A677154B-0285-4EBB-B65B-D6F706651AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A677154B-0285-4EBB-B65B-D6F706651AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CD1732-F5C3-4028-816C-09434AA1BCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CD1732-F5C3-4028-816C-09434AA1BCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CD1732-F5C3-4028-816C-09434AA1BCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CD1732-F5C3-4028-816C-09434AA1BCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E9B4FA-20D9-4A9A-BA45-E78C61B17B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E9B4FA-20D9-4A9A-BA45-E78C61B17B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E9B4FA-20D9-4A9A-BA45-E78C61B17B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E9B4FA-20D9-4A9A-BA45-E78C61B17B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D131069D-9781-4DAE-A1FF-21934CE2787B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
