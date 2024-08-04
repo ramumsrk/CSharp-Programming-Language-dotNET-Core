@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRecord", "StudentRec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGender", "StudentGender\StudentGender.csproj", "{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeConversionExample", "DataTypeConversionExample\DataTypeConversionExample.csproj", "{AA2F60B0-2BE5-4180-B1F0-EA1763593081}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC62CE0-49BF-4E19-A769-AF44F9CE9D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2F60B0-2BE5-4180-B1F0-EA1763593081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2F60B0-2BE5-4180-B1F0-EA1763593081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2F60B0-2BE5-4180-B1F0-EA1763593081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2F60B0-2BE5-4180-B1F0-EA1763593081}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
