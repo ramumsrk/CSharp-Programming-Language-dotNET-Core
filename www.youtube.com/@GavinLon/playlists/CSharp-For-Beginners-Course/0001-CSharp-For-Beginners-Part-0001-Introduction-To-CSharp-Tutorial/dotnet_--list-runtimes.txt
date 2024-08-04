@@ -1,0 +1,2 @@
+Microsoft.AspNetCore.App 8.0.7 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 8.0.7 [/usr/share/dotnet/shared/Microsoft.NETCore.App]

@@ -1,0 +1,42 @@
+.NET SDK:
+ Version:           8.0.303
+ Commit:            29ab8e3268
+ Workload version:  8.0.300-manifests.c915c39d
+ MSBuild version:   17.10.4+10fbfbf2e
+
+Runtime Environment:
+ OS Name:     fedora
+ OS Version:  40
+ OS Platform: Linux
+ RID:         linux-x64
+ Base Path:   /usr/share/dotnet/sdk/8.0.303/
+
+.NET workloads installed:
+There are no installed workloads to display.
+
+Host:
+  Version:      8.0.7
+  Architecture: x64
+  Commit:       2aade6beb0
+
+.NET SDKs installed:
+  8.0.303 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 8.0.7 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 8.0.7 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download

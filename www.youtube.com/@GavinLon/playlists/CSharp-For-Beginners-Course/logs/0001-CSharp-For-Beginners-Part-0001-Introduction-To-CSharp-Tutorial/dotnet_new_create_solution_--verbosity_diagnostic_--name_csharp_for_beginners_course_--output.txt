@@ -1,0 +1,25 @@
+[2024-08-04 09:22:27.552] [Debug] [Template Engine] => [Execute]: Execute started
+[2024-08-04 09:22:27.862] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-08-04 09:22:27.862] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-08-04 09:22:27.864] [Debug] [MSBuildEvaluator] => [Execute]: Output directory is: /run/media/ramumsrk/1.0TiB/repositories/CSharp-Programming-Language-dotNET-Core/www.youtube.com/@GavinLon/playlists/CSharp-For-Beginners-Course/src/csharp_for_beginners_course.
+[2024-08-04 09:22:27.864] [Debug] [MSBuildEvaluator] => [Execute]: Project full path is: <null>.
+[2024-08-04 09:22:27.875] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.itemtemplates.8.0.303.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.itemtemplates.8.0.303.nupkg/content/Solution/.template.config/template.json started
+[2024-08-04 09:22:27.910] [Debug] [MSBuildEvaluator] => [Execute]: Found project files: .
+[2024-08-04 09:22:27.910] [Debug] [MSBuildEvaluator] => [Execute]: No project found.
+[2024-08-04 09:22:27.912] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.itemtemplates.8.0.303.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.7/microsoft.dotnet.common.itemtemplates.8.0.303.nupkg/content/Solution/.template.config/template.json finished, took 36 ms
+[2024-08-04 09:22:27.912] [Debug] [Template Engine] => [Execute]: Found template 'Solution File' (Microsoft.Standard.QuickStarts.Solution)
+[2024-08-04 09:22:27.913] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation started
+[2024-08-04 09:22:27.951] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.951] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.951] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.951] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.951] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.957] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.957] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.957] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.957] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.957] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'csharp_for_beginners_course'.
+[2024-08-04 09:22:27.959] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation finished, took 46 ms
+The template "Solution File" was created successfully.
+
+[2024-08-04 09:22:27.961] [Debug] [Template Engine] => [Execute]: Execute finished, took 414 ms

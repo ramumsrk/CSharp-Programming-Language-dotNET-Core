@@ -1,0 +1,1 @@
+8.0.303 [/usr/share/dotnet/sdk]

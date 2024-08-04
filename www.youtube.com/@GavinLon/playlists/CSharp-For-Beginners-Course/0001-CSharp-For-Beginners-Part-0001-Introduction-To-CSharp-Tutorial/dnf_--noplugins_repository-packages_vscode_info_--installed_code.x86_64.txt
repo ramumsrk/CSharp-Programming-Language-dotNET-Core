@@ -1,0 +1,14 @@
+Installed Packages
+Name         : code
+Version      : 1.92.0
+Release      : 1722473109.el8
+Architecture : x86_64
+Size         : 381 M
+Source       : code-1.92.0-1722473109.el8.src.rpm
+Repository   : @System
+From repo    : vscode
+Summary      : Code editing. Redefined.
+URL          : https://code.visualstudio.com/
+License      : Multiple, see https://code.visualstudio.com/license
+Description  : Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle. See https://code.visualstudio.com/docs/setup/linux for installation instructions and FAQ.
+
