@@ -1,0 +1,1 @@
+# Details about my operating-system and .NET platform installed on my os

@@ -1,0 +1,20 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                      Version                  Architecture Description
++++-=========================-========================-============-=======================================================
+un  dotnet-apphost-pack-6.0   <none>                   <none>       (no description available)
+ii  dotnet-apphost-pack-8.0   8.0.7-0ubuntu1~24.04.1   amd64        Internal - targeting pack for Microsoft.NETCore.App 8.0
+un  dotnet-host               <none>                   <none>       (no description available)
+un  dotnet-host-7.0           <none>                   <none>       (no description available)
+ii  dotnet-host-8.0           8.0.7-0ubuntu1~24.04.1   amd64        .NET host command line
+un  dotnet-hostfxr-6.0        <none>                   <none>       (no description available)
+ii  dotnet-hostfxr-8.0        8.0.7-0ubuntu1~24.04.1   amd64        .NET host resolver
+un  dotnet-runtime-6.0        <none>                   <none>       (no description available)
+ii  dotnet-runtime-8.0        8.0.7-0ubuntu1~24.04.1   amd64        .NET runtime
+un  dotnet-sdk-6.0            <none>                   <none>       (no description available)
+ii  dotnet-sdk-8.0            8.0.107-0ubuntu1~24.04.1 amd64        .NET 8.0 Software Development Kit
+un  dotnet-targeting-pack-6.0 <none>                   <none>       (no description available)
+ii  dotnet-targeting-pack-8.0 8.0.7-0ubuntu1~24.04.1   amd64        Internal - targeting pack for Microsoft.NETCore.App 8.0
+un  dotnet-templates-6.0      <none>                   <none>       (no description available)
+ii  dotnet-templates-8.0      8.0.107-0ubuntu1~24.04.1 amd64        .NET 8.0 templates
